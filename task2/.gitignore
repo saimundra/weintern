@@ -1,4 +1,3 @@
-# Don't commit .env file with actual API keys
 .env
 *.pyc
 __pycache__/
