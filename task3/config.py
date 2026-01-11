@@ -1,6 +1,3 @@
-# Email Automation System - Configuration Loader
-# Loads environment variables from .env file
-
 import os
 from pathlib import Path
 

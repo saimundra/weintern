@@ -1,15 +1,4 @@
-"""
-Email Automation System
------------------------
-Sends bulk emails with personalization (name, subject)
-Features:
-- Secure SMTP authentication with TLS
-- CSV-based recipient management
-- Comprehensive logging
-- Failed delivery handling with retry mechanism
-"""
-
-# Load environment variables from .env file
+#load config from environment variables
 import config
 
 import csv
