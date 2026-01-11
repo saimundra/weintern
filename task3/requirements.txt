@@ -1,0 +1,6 @@
+# Email Automation System - Requirements
+# All packages are part of Python's standard library
+# No external dependencies required!
+
+# Optional: For enhanced .env file loading (alternative to config.py)
+# python-dotenv==1.0.0
